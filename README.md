@@ -1,3 +1,9 @@
+### In this app I've added some react interview question just like fetch repo from github using username and fetch data from jason place holder api and passing the data from child to parent.
+
+## Hosted Link: https://gallant-kare-ef40bc.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
